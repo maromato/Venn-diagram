@@ -1,0 +1,270 @@
+IDH1&IDH2$TET2	IDH1&IDH2&TET2DNMT3a	IDH1&IDH2&TET2&CEBPa&DNMT3a	IDH1&IDH2&TET2&CEBPa&DNMT3a&WT1								
+ENTPD7	ADRB2	ADARB2	PRDM16				   		    		    
+FAM53B	CD3D	AP2A2	LPO		   						
+DOCK1	AP2A2	GALNT9	BACH2								
+FAM196A	GALNT9	PRDM16	PTPRN2								
+EBF3	COL4A2	LPO									
+BNIP3	ATP11A	RPTOR									
+STK32C	PRDM16	NXN									
+PAOX	ABCA3	HDAC4				  		    			
+KIAA1462	LPO	VGLL4		   							
+PFKP	RPTOR	LPCAT1									
+DIP2C	NXN	RPS6KA2									
+CXCL12	TCF3	BACH2									
+CHAT	GTPBP5	PRKAG2									
+GRID1	SLC11A1	PTPRN2									
+GPR120	HDAC4	MAD1L1									
+APITD1	VGLL4	EIF2C2									
+BTG4	TM4SF19	SCRIB									
+C11orf88	LPCAT1	PLEC1									
+MIR34C	RPS6KA2	ARHGEF10									
+ZBTB16	ANKS1A										
+DSCAML1	BACH2										
+TTLL10	PRKAG2										
+TMEM45B	PTPRN2										
+WNT2B	MAD1L1										
+FBXO44	AOAH										
+MAD2L2	EIF2C2										
+GAS2	TOP1MT										
+OSBPL5	SCRIB										
+LDLRAD3	PLEC1										
+C1orf70	ARHGEF10										
+LOC388692											
+S100A13											
+S100A1											
+ATP8B2											
+FAM189B											
+RUSC1											
+C1orf104											
+NTRK1											
+TNKS1BP1											
+SYT7											
+APBB1											
+LMX1A											
+ILDR2											
+ESPNP											
+DNM3											
+TNN											
+NDUFC2											
+CEND1											
+TMEM52											
+TSPAN4											
+AKR7L											
+AKR7A3											
+PQLC2											
+PRKCZ											
+SHISA4											
+C12orf34											
+TRPV4											
+RAP1GAP											
+OBSCN											
+SLC4A8											
+ITGB7											
+C12orf10											
+FLJ12825											
+CYP27B1											
+GRRP1											
+SLC6A15											
+PRDM16											
+IRS2											
+TINAGL1											
+MLNR											
+PCDH17											
+TP73											
+TFAP2E											
+LOC388588											
+DLK1											
+TECPR2											
+AMN											
+PPP1R13B											
+NDRG2											
+SLC25A21											
+HSPA2											
+VASH1											
+FBLN5											
+ELAVL4											
+ADAMTS17											
+SPTBN5											
+DUOX1											
+BCL2L10											
+LOXL1											
+ULK3											
+TACSTD2											
+SOX8											
+NFIA											
+CHD5											
+AXIN1											
+DNAJC6											
+TAS1R1											
+ZBTB48											
+SMPD3											
+HAS3											
+SPIRE2											
+CAMTA1											
+ABR											
+DPH1											
+UNC119											
+SEZ6											
+ITGAE											
+MED24											
+RAPGEFL1											
+PTRF											
+C17orf104											
+ADAM11											
+CACNA1G											
+LPO											
+TEX2											
+LOC146880											
+NEURL4											
+TNK1											
+GRIN2C											
+CBX4											
+GAS7											
+BRUNOL4											
+ICAM5											
+GPX4											
+EPHX3											
+COMP											
+LOC729991-MEF2B											
+MEF2B											
+GNA11											
+RHPN2											
+LOC643719											
+FXYD1											
+PPP1R14A											
+SHKBP1											
+PPP1R13L											
+PIK3CD											
+ARHGEF18											
+C19orf45											
+EVI5L											
+SSTR4											
+RBPJL											
+TNNC2											
+SLC13A3											
+GNASAS											
+GNAS											
+STMN3											
+SCRT2											
+FHL2											
+UXS1											
+ACOXL											
+LOC440839											
+PAX8											
+LPIN1											
+C21orf29											
+NRP2											
+PTPRN											
+APOL6											
+TRIOBP											
+GALR3											
+LRRFIP1											
+SCUBE1											
+SAMM50											
+C2orf39											
+LTBP1											
+CYP1B1											
+ANKRD53											
+VWA3B											
+C2orf55											
+TAGLN3											
+SYN2											
+ADCY5											
+IQSEC1											
+MCF2L2											
+THRB											
+RNF123											
+CACNA2D2											
+C3orf67											
+PDZRN3											
+UCP1											
+TRIM2											
+LRPAP1											
+ARL9											
+JAKMIP1											
+PF4V1											
+CPLX1											
+SPOCK1											
+KLHL3											
+SLC6A3											
+PCDHA6											
+PCDHA2											
+PCDHA1											
+PCDHA9											
+PCDHA7											
+PCDHA12											
+PCDHA5											
+PCDHA10											
+PCDHA3											
+PCDHA4											
+PCDHA11											
+PCDHA8											
+PCDHA13											
+PCDHAC1											
+PCDHGA4											
+PCDHGA1											
+PCDHGB1											
+PCDHGB3											
+PCDHGA6											
+PCDHGA5											
+PCDHGB4											
+PCDHGA3											
+PCDHGA2											
+PCDHGA7											
+PCDHGB2											
+GALNT10											
+SLC9A3											
+ELOVL7											
+TPPP											
+RNU5E											
+RNU5D											
+TFAP2A											
+TPD52L1											
+C6orf174											
+SGK1											
+SASH1											
+THBS2											
+FAM65B											
+LOC100270746											
+C6orf41											
+HLA-F											
+NCRNA00171											
+RNF39											
+TRIM15											
+HLA-L											
+PPP1R10											
+LY6G6E											
+TNXB											
+PRRT1											
+B3GALT4											
+TULP1											
+CPNE5											
+MDFI											
+GNMT											
+TTBK1											
+RSPH9											
+PLA2G7											
+ELOVL4											
+BACH2											
+KCP											
+C7orf49											
+HIPK2											
+PTPRN2											
+TNS3											
+FOXK1											
+RADIL											
+FBXL18											
+FSCN1											
+PRKAR1B											
+AUTS2											
+STAG3											
+GATA4											
+PPP1R16A											
+MTMR7											
+KBTBD11											
+SORBS3											
+RHOBTB2											
+C9orf50											
+NACC2											
+PAX5											
+DAPK1											
