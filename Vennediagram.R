@@ -2,7 +2,7 @@
 x <- read.table(file="DNAmet.txt",header=T,sep="\t")　
 
 head(x)
-# a b c d e
+# IDH2hyper	WT1hyper	CEBPahyper	TET2Hyper	IDH1Hyper	DNMT3Ahyper
 #1 PYROXD2 HPSE2 LOXL4 ABCC2 KAZALD1
 #2 ENTPD7 ENTPD7 HPSE2 SH3PXD2A BTRC
 #3 BLOC1S2 SCD ENTPD7 VWA2 FBXW4
@@ -10,8 +10,8 @@ head(x)
 #5 FBXW4 ABLIM1 SCD CHST15 ELOVL3
 #6 KCNIP2 ECHDC3 NDUFB8 DOCK1 SH3PXD2A
 
-# making a list matrix by using elements in group a,b,c,d,e. 
-#Each group represents a specific gene mutation and each element in each group represents a specific gene expressed in a specific group
+# making a list matrix by using elements in group IDH2hyper, WT1hyper, CEBPahyper, TET2Hyper, IDH1Hyper, DNMT3Ahyper. 
+#Each group represents a specific gene mutation and each element in each group represents a specific gene hypermethylated in a specific group
 
  a <- as.matrix(x[,1])
  b <- as.matrix(x[,2][1:1135])
