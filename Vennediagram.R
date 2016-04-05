@@ -34,7 +34,8 @@ head(x)
  t1 <- intersect(a,intersect(b,c))
  t1 <- as.matrix(t1)
  
- #extracting gene names in the intersect (a,b) but not in intersect(a,b,c)
+#extracting gene names in the intersect (a,b) but not in intersect(a,b,c)
+
  t2 <- intersect(a,b)
  t2 <- as.matrix(t2)
  nrow(t2) #to check if number of the genes in this group is correct
