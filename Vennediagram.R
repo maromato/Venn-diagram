@@ -33,3 +33,12 @@ head(x)
 
  t1 <- intersect(a,intersect(b,c))
  t1 <- as.matrix(t1)
+ 
+ #extracting gene names in the intersect (a,b) but not in intersect(a,b,c)
+ t2 <- intersect(a,b)
+ t2 <- as.matrix(t2)
+ nrow(t2) #to check if number of the genes in this group is correct
+ obj <- !(t2[,1] %in% t1[,1])
+ t3 <- t2[obj,]
+ t3 <- as.matrix(t3) 
+ nrow(t3) #to check if number of the genes in this group is correct
