@@ -39,7 +39,7 @@ head(x)
  t2 <- intersect(a,b)
  t2 <- as.matrix(t2)
  nrow(t2) #to check if number of the genes in this group is correct
- obj <- !(t2[,1] %in% t1[,1])
- t3 <- t2[obj,]
+ obj <- !(t2[,1] %in% t1[,1]) #to identify the rows that is not overlapped in intersect(a,b,c)
+ t3 <- t2[obj,] # to import the elements from the rows identified above 
  t3 <- as.matrix(t3) 
  nrow(t3) #to check if number of the genes in this group is correct
